@@ -1,0 +1,53 @@
+/* media="(min-width:600px) and (max-width:900px)" */
+
+table {
+  font-size: 1.6vw;
+}
+
+td button {
+  font-size: 14px;
+}
+
+#create-btn,
+#reset-btn,
+#total-section,
+.discount-count,
+.price-inputs,
+.price-inputs,
+.input-container {
+  width: 50%;
+}
+
+th,
+td {
+  font-size: 1.4vw;
+}
+
+input {
+  height: 35px;
+  font-size: 20px;
+}
+
+#total {
+  padding: 17px;
+  font-size: 20px;
+}
+
+#create-btn,
+#reset-btn {
+  height: 40px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+#create-btn {
+  margin-top: 0;
+}
+
+#create-aside > h2 {
+  font-size: 30px;
+}
+
+.container H2 ~ div.btn {
+  font-size: 15px;
+}

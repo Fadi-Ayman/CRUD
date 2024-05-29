@@ -1,0 +1,66 @@
+/* media="(min-width:901px)" */
+
+table {
+  font-size: 18px;
+}
+
+td button {
+  font-size: 16px;
+}
+
+#create-btn,
+#reset-btn,
+#total-section,
+.discount-count,
+.price-inputs,
+.price-inputs,
+.input-container {
+  width: 35%;
+}
+
+th,
+td {
+  font-size: 1.1vw;
+}
+
+.scroll-up {
+  width: 50px;
+  height: 50px;
+  top: 600px;
+  right: calc(8% - 50px);
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+.scroll-up:hover {
+  opacity: 1;
+}
+
+input {
+  height: 35px;
+  font-size: 20px;
+}
+
+#total {
+  padding: 17px;
+  font-size: 20px;
+}
+
+#create-btn,
+#reset-btn {
+  height: 40px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+#create-btn {
+  margin-top: 0;
+}
+
+#create-aside > h2 {
+  font-size: 30px;
+}
+
+.container H2 ~ div.btn {
+  font-size: 15px;
+}
